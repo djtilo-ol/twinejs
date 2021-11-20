@@ -4,189 +4,189 @@ msgstr ""
 
 #: src/dialogs/about/index.html
 msgid "About Twine"
-msgstr "Twineについて"
+msgstr "Über Twine"
 
 #: src/dialogs/about/index.html
 msgid "Twine is an open-source tool for telling interactive, nonlinear stories."
-msgstr "Twineはゲームブックやテキストアドベンチャーを制作するオープンソースツールです"
+msgstr "Twine ist ein open-source Werkzeug, um interaktive, non-lineare Geschichten zu erzählen"
 
 #: src/dialogs/about/index.html
 msgid "This application is released under the \\x3ca href=\"http:\\/\\/www.gnu.org/licenses/gpl-3.0.html\">GPL v3\\x3c/a> license, but any work created with it may be released under any terms, including commercial ones."
-msgstr "このアプリケーションは、\\ x3ca href = \ "http：\\ / \\ / www.gnu.org/licenses/gpl-3.0.html\">GPL v3 \\ x3c / a>ライセンスの下でリリースされていますが、すべての作業はそれで作成されたものは、商用のものも含めて、いかなる条件の下でもリリースできます。"
+msgstr "Dieses Programm ist gemäß der \\ x3ca href = \ "http：\\ / \\ / www.gnu.org/licenses/gpl-3.0.html\">GPL v3 \\ x3c / a> Lizenz veröffentlicht, jedoch kann jegliches damit erstelltes Werk unter anderen, z.B. kommerziellen Lizenzbedingungen veröffentlicht werden."
 
 #: src/dialogs/about/index.html
 msgid "Help Twine Grow With A Donation"
-msgstr "Twineの成長を寄付で助ける"
+msgstr "Helfen Sie Twine weiter zu wachsen, indem Sie spenden"
 
 #: src/dialogs/about/index.html
 msgid "Source Code Repository"
-msgstr "ソースコードレポジトリ"
+msgstr "Quellcode Verzeichnis"
 
 #: src/dialogs/about/index.html
 msgid "Translations"
-msgstr "翻訳"
+msgstr "Übersetzungen"
 
 #: src/dialogs/about/index.html
 msgid "Libraries"
-msgstr "ライブラリ"
+msgstr "Quellen"
 
 #: src/dialogs/about/index.html
 msgid "Fonts"
-msgstr "フォント"
+msgstr "Schriftarten"
 
 #: src/dialogs/about/index.html
 msgid "Source Sans Pro and Source Code Pro were designed by Paul D. Hunt under the guidance of Robert Slimbach for \\x3ca href=\"http:\\/\\/adobe.com/\">Adobe\\x3c/a>\\x3cbr> Nunito was designed by \\x3ca href=\"http:\\/\\/code.newtypography.co.uk/\">Vernon Adams\\x3c/a>"
-msgstr "Source Sans ProおよびSource Code Proは、Robert Slimbachの指導の下、Paul D. Huntによって\\ x3ca href = \ "http：\\ / \\ / adobe.com / \"> Adob​​e \\ x3c / a>向けに設計されました。 \\ x3cbr> Nunitoは\\ x3ca href = \ "http：\\ / \\ / code.newtypography.co.uk/\">Vernon Adams \\ x3c / a>によって設計されました。"
+msgstr "Source Sans Pro und Source Code Pro wurden vonPaul D. Hunt unter Beratung von Robert Slimbach für \\ x3ca href = \ "http：\\ / \\ / adobe.com / \"> Adob​​e \\ x3c / a> Nunito wurde von \\ x3cbr> Nunitoは\\ x3ca href = \ "http：\\ / \\ / code.newtypography.co.uk/\">Vernon Adams designt \\ x3c / "
 
 #: src/dialogs/about/index.html
 msgid "Icons"
-msgstr "アイコン"
+msgstr "Symbole"
 
 #: src/dialogs/about/index.html
 msgid "Document designed by Rob Gill from the Noun Project"
-msgstr "Noun ProjectのRob Gillによってドキュメントはデザインされました。"
+msgstr "Das Dokument wurde von Rob Gill vom Noun Project designt"
 
 #: src/dialogs/about/index.html
 msgid "Question designed by Henry Ryder from the Noun Project"
-msgstr "Noun ProjectのHenry Ryderによってクエスチョンはデザインされました。"
+msgstr "Die Frage wurde von Henry Ryder vom Noun Project designt"
 
 #: src/dialogs/about/index.html
 msgid "Smile designed by jelio dimitrov from the Noun Project"
-msgstr "Noun Projectのjelio dimitrovによってスマイルはデザインされました。"
+msgstr "Das Lächeln wurde von jelio dimitrov vom Noun Project designt"
 
 #: src/dialogs/app-donation/index.html
 msgid "If you love Twine as much as I do, please consider helping it grow with a donation. Twine is an open source project that will always be free to use &mdash; and with your help, Twine will continue to thrive."
-msgstr "あなたが私と同じようにTwineを愛しているなら、寄付で成長するのを手伝ってください。 Twineは、＆mdash;を常に無料で使用できるオープンソースプロジェクトです。そして、あなたの助けを借りて、Twineは繁栄し続けます。"
+msgstr "Sofern Sie Twine so sehr lieben wie wir, überlegen Sie bitte, ob Sie uns nicht mit einer Spende weiter wachsen helfen können. Twine ist ein open-source Projekt, welches immer frei verfügbar sein wird und mit Ihrer Hilfe wird sich Twine weiter entwickeln."
 
 #: src/dialogs/app-donation/index.html
 msgid "Chris Klimas, Twine creator"
-msgstr "Chris Klimas, Twine クリエイター"
+msgstr "Chris Klimas, Twine Entwickler"
 
 #: src/dialogs/app-donation/index.html
 msgid "No Thanks"
-msgstr "いいえ、結構です"
+msgstr "Nein Danke"
 
 #: src/dialogs/app-donation/index.html
 msgid "Donate"
-msgstr "寄付する"
+msgstr "Spenden"
 
 #: src/dialogs/app-donation/index.html
 msgid "This message will only be shown to you once.&lt;br&gt;If you'd like to donate to Twine development in the future, you can do so at &lt;a href=\\\"http:\\/\\/twinery.org/donate\\\" target=\\\"_blank\\\"&gt;http://twinery.org/donate&lt;/a&gt;."
-msgstr "このメッセージは一度だけ表示されます。＆lt; br＆gt;今後Twine開発に寄付したい場合は、＆lt; a href = \\\ "http：\\ / \\ /で行うことができます。 twinery.org/donate \\\ "target = \\\" _blank \\\ "＆gt; http：//twinery.org/donate&lt; / a＆gt;。"
+msgstr "Diese Nachricht wird nur einmal angezeigt. Wenn Sie in Zukunft die Twine Entwicklung mit einer Spende unterstützen möchten, dann können Sie das hier tun ＆lt; a href = \\\ "http：\\ / \\ /で行うことができます。 twinery.org/donate \\\ "target = \\\" _blank \\\ "＆gt; http：//twinery.org/donate&lt; / a＆gt;."
 
 #: src/dialogs/formats/index.html
 msgid "Story formats control the appearance and behavior of stories during play."
-msgstr "ストーリー形式はプレイ中の物語の外観や挙動をコントロールします。"
+msgstr "Die Geschichtsformate kontrollieren das Aussehen und das Verhalten der Geschichten während des Spiels."
 
 #: src/dialogs/formats/index.html
 msgid "Use as Default"
-msgstr "デフォルトとして使用"
+msgstr "Als Standard benutzen"
 
 #: src/dialogs/formats/index.html
 msgid "Proofing formats create a versions of stories tailored for editing and proofreading."
-msgstr "校正形式は、編集および校正用に調整されたストーリーのバージョンを作成します。"
+msgstr "Korrekturformate erzeugen Versionen der Geschichten, die für das Editieren und Korrekturlesen zugeschnitten sind."
 
 #: src/dialogs/formats/index.html
 msgid "Use"
-msgstr "使う"
+msgstr "Nutze"
 
 #: src/dialogs/formats/index.html
 #: src/story-list-view/list-toolbar/index.js:24
 msgid "Add"
-msgstr "追加"
+msgstr "Füge hinzu"
 
 #: src/dialogs/formats/index.html
 #: src/dialogs/story-format/index.html
 msgid "Loading..."
-msgstr "読み込んでいます…"
+msgstr "Lade..."
 
 #: src/dialogs/story-format/index.html
 msgid "Story Format"
-msgstr "ストーリー形式"
+msgstr "Geschichtsformat"
 
 #: src/dialogs/story-format/index.html
 msgid "A story format controls the appearance and behavior of your story during play."
-msgstr "ストーリー形式はプレイ中の物語の外観や挙動をコントロールします。"
+msgstr "Ein Geschichtsformat kontrolliert das Aussehen und das Verhalten deiner Geschichte während des Spiels."
 
 #: src/dialogs/story-import/index.html
 #: src/story-list-view/list-toolbar/index.html
 msgid "Import From File"
-msgstr "ファイルからインポートする"
+msgstr "Importiere eine Datei"
 
 #: src/dialogs/story-import/index.html
 msgid "Import this file:"
-msgstr "このファイルをインポートする:"
+msgstr "Importiere diese Datei"
 
 #: src/dialogs/story-import/index.html
 #: src/dialogs/confirm/index.js:31
 #: src/dialogs/prompt/index.js:15
 msgid "Cancel"
-msgstr "キャンセル"
+msgstr "Abbrechen"
 
 #: src/dialogs/story-import/index.html
 msgid "Working..."
-msgstr "お待ち下さい…"
+msgstr "Arbeite..."
 
 #: src/dialogs/story-import/index.html
 msgid "Some stories you are importing already exist in your library. Please choose which to replace. Any other stories in your file will be imported as well."
-msgstr "インポートするストーリーの一部は既にライブラリに存在しています。交換するものを選択してください。ファイル内の他のストーリーもインポートされます。"
+msgstr "Einige Geschichten, die Sie importieren, existieren bereits. Bitte wählen Sie aus, welche ersetzt werden sollen. Andere ebenso enthaltene Geschichten werden auch importiert."
 
 #: src/dialogs/story-import/index.html
 msgid "Don't Import Any Stories"
-msgstr "どのストーリーもインポートしない"
+msgstr "Importieren Sie keine Geschichten"
 
 #: src/dialogs/story-search/index.html
 msgid "Find and Replace"
-msgstr "検索して置換"
+msgstr "Suchen und Ersetzen"
 
 #: src/dialogs/story-search/index.html
 msgid "Search For"
-msgstr "探す"
+msgstr "Suche nach"
 
 #: src/dialogs/story-search/index.html
 msgid "Include passage names"
-msgstr "パッセージの名前も含める"
+msgstr "Ergänze Abschnittsnamen"
 
 #: src/dialogs/story-search/index.html
 msgid "Match case"
-msgstr "ケースに合致"
+msgstr "Ordne den Fall zu"
 
 #: src/dialogs/story-search/index.html
 msgid "Regular expression"
-msgstr "正規表現"
+msgstr "Üblicher Ausdruck"
 
 #: src/dialogs/story-search/index.html
 msgid "Replace With"
-msgstr "置換する"
+msgstr "Ersetzen mit"
 
 #: src/dialogs/story-search/index.html
 msgid "Replace All"
-msgstr "すべて置換する"
+msgstr "Alles ersetzen"
 
 #: src/dialogs/story-search/index.html
 msgid "%d passage matches."
 msgid_plural "%d passages match."
-msgstr[0] "のパッセージが一致します。"
-msgstr[1] "のパッセージが一致します。"
+msgstr[0] "%d Absatz passt."
+msgstr[1] "%d Absätze passen."
 
 #: src/dialogs/story-search/index.html
 msgid "Searching..."
-msgstr "検索中…"
+msgstr "Suche..."
 
 #: src/dialogs/story-search/result.html
 msgid "%d match"
 msgid_plural "%d matches"
-msgstr[0] "合致"
-msgstr[1] "合致"
+msgstr[0] "%d Übereinstimmung"
+msgstr[1] "%d Übereinstimmungen"
 
 #: src/dialogs/story-search/result.html
 msgid "Replace in Passage"
-msgstr "パッセージの中を置換"
+msgstr "Ersetze im Abschnitt"
 
 #: src/dialogs/story-stats/index.html
 #: src/story-edit-view/story-toolbar/story-menu/index.html
 msgid "Story Statistics"
-msgstr "ストーリー統計"
+msgstr "Statistiken der Geschichte"
 
 #: src/editors/javascript/index.html
 msgid "JavaScript"
@@ -194,11 +194,11 @@ msgstr "JavaScript"
 
 #: src/editors/javascript/index.html
 msgid "Any JavaScript entered here will immediately run when your story is opened in a Web browser."
-msgstr "ここに入力したJavaScriptは、ストーリーがWebブラウザーで開かれるとすぐに実行されます。"
+msgstr "Jeglicher JavaScript, der an dieser Stelle eingegeben wird, wird sofort ausgeführt, sobald Ihre Geschichte in einem Webbrowser geöffnet wird."
 
 #: src/editors/passage/index.html
 msgid "A passage already exists with this name."
-msgstr "この名前のパッセージは既に存在します。"
+msgstr "Ein Abschnitt mit diesem Namen existiert bereits."
 
 #: src/editors/passage/tag-editor.html
 msgid "Tag"
